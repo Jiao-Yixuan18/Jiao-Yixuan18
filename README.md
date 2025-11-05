@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ---
 ## 🔧 工具与平台
 
-####平台
+**平台**
 CSDN|知乎|百度|Edge|菜鸟教程|deepseek|豆包
 
-####工具
+**工具**
 VScode|VS2022|CodeArts IDE for CPP|GitHub|Typora
 
 ---
