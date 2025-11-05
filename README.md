@@ -56,6 +56,9 @@ VScode|VS2022|CodeArts IDE for CPP|GitHub|Typora
 ---
 ## 🔗 创作 个人Profile README 参考
 
+[elie222的个人主页]（https://github.com/elie222/elie222.git）
+
+[arvinxx的个人主页]（https://github.com/arvinxx/arvinxx.git）
 
 
 
