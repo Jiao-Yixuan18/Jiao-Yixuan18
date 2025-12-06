@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 |    name       |                    example                                       |   
 |:------------:|:------------------------------------------------------------------|
-|   平台        |CSDN    知乎    百度    Edge    菜鸟教程    deepseek    豆包        |
+|   平台        |CSDN    知乎    百度    Edge    菜鸟教程    deepseek    豆包    bilibili    |
 |   工具        |VScode 、   VS2022 、   CodeArts IDE for CPP、    GitHub  、  Typora      |
 
 
@@ -38,23 +38,16 @@ Here are some ideas to get you started:
 
 ---
 ## 📚 正在学习
-—**Git & GitHub** | **Markdown** | **C语言**
+—**Git & GitHub** | **Markdown** | **C语言**|**HTML**|**CSS**|**JS**|
 
 ---
 ## 📑 近期学习目标
 
 1、学习C语言，多做练习
 
-2、熟练使用GitHub和Markdown 
+2、熟练使用Git、Markdown 
 
-3、自学网安相关技术
-
----
-## 🤔 寻求帮助
-
--如何更好地掌握编程基础
-
--如何熟练地GitHub VScode Typora
+3、自学Git HTML CSS JS
 
 
 
