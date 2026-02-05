@@ -1,46 +1,37 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi!&fontSize=90&fontAlign=50&fontAlignY=30&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi+there&fontSize=90&fontAlign=50&fontAlignY=30&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-![Jiao-Yixuan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiao-Yixuan18&theme=ambient_gradient&show_icons=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Independent+souls+thrive+joyfully.;Let's+call+a+spada+a+spada.)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiao-Yixuan18)
-
-## 🚀 关于我
-
-我是一名技术萌新，相信未知的挑战才是成长的加速器。
-
-- 💖 MBTI：istj
-- ✨ 星座：水瓶座
-- 🏫 学校：中南民族大学
-- 💻 专业：**网络空间安全**
-- 🤩 爱好：听歌，打羽毛球，写作
-- 📫 如何联系我： 257902121@qq.com
-
+## 📒账号信息统计
 ---
-## 🔧 工具与平台
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Jiao-Yixuan18&show_icons=true&theme=tokyonight) 
 
-
-|    name       |                    example                                       |   
-|:------------:|:------------------------------------------------------------------|
-|   平台        |CSDN    知乎    百度    Edge    菜鸟教程    deepseek    豆包    bilibili    |
-|   工具        |VScode 、   VS2022 、   CodeArts IDE for CPP、    GitHub  、  Typora      |
-
-
-
-
+## 💖常用语言
 ---
-## 📚 正在学习
-—**Git & GitHub** | **Markdown** | **C语言**|**HTML**|**CSS**|**JS**|
+[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js)](https://skillicons.dev)
 
+## 👩‍💻语言使用分布
 ---
-## 📑 近期学习目标
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Jiao-Yixuan18&layout=compact&theme=tokyonight) 
 
-1、学习C语言，多做练习
 
-2、熟练使用Git、Markdown 
+## 🔧 常用工具
+---
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,pycharm,visualstudio,vscode,windows&theme=light)](https://skillicons.dev)
 
-3、自学Git HTML CSS JS
+🤩活跃情况
+---
+![Jiao-Yixuan18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jiao-Yixuan18)
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=The+End&fontSize=90&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
+
+
+
 
 
 
