@@ -19,7 +19,7 @@
 
 ## 🔧 常用工具
 ---
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,pycharm,visualstudio,vscode,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode&theme=light)](https://skillicons.dev)
 
 🤩活跃情况
 ---
