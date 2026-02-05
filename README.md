@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hi!}&fontSize=90&fontAlign=50&fontAlignY=30&desc={Welcome to My World}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi!&fontSize=90&fontAlign=50&fontAlignY=30&desc=&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
+![Jiao-Yixuan18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiao-Yixuan18&theme=ambient_gradient&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiao-Yixuan18)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiao-Yixuan18)
 
 ## 🚀 关于我
 
