@@ -4,18 +4,11 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Independent+souls+thrive+joyfully.;Let's+call+a+spada+a+spada.)
 
-## 📒账号信息统计
----
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Jiao-Yixuan18&show_icons=true&theme=tokyonight) 
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Jiao-Yixuan18&show_icons=true&theme=tokyonight)  ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Jiao-Yixuan18&layout=compact&theme=tokyonight) 
 
 ## 💖常用语言
 ---
 [![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js)](https://skillicons.dev)
-
-## 👩‍💻语言使用分布
----
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Jiao-Yixuan18&layout=compact&theme=tokyonight) 
-
 
 ## 🔧 常用工具
 ---
